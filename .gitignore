@@ -1,0 +1,166 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.production
+
+# Dependencias
+node_modules/
+bower_components/
+jspm_packages/
+
+# Directorios de construcción
+dist/
+build/
+out/
+.next/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivos de depuración
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de testing
+coverage/
+.nyc_output/
+
+# Archivos de paquetes
+*.tgz
+
+# Archivos de sistema operativo
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de caché
+.cache/
+
+# Archivos de Sass
+.sass-cache/
+
+# Archivos de editor
+*.bak
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de usuario
+*.userprefs
+
+# Archivos de configuración local
+*.local
+
+# Archivos de bundler
+.webpack/
+.serverless/
+
+# Archivos de TypeScript
+*.tsbuildinfo
+
+# Archivos de producción
+.sass-cache/
+*.css.map
+*.js.map
+
+# Archivos de documentación
+docs/_build/
+
+# Archivos de paquetes
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Ruby
+/.bundle
+/vendor/bundle
+*.gem
+
+# Archivos de Java
+*.class
+*.war
+*.ear
+
+# Archivos de C/C++
+*.o
+*.a
+*.so
+*.out
+
+# Archivos de Go
+/bin/
+/pkg/
+
+# Archivos de Rust
+/target/
+
+# Archivos de Visual Studio Code
+.history/
+
+# Archivos de Windows
+ehthumbs.db
+[Tt]humbs.db
+
+# Archivos de MacOS
+._*
+
+# Archivos de JetBrains
+*.iml
+.idea/
+
+# Archivos de Visual Studio
+.vs/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Archivos de Eclipse
+.settings/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+
+# Archivos de NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
